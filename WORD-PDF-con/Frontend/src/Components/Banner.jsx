@@ -4,7 +4,7 @@ import img from "../assets/image.png";
 function Banner() {
   return (
     <>
-      <div className="bg-gradient-to-t from-blue-50 via-white to-blue-100 py-10">
+      <div className=" py-10">
         <div className="flex flex-col md:flex-row items-center mx-10 md:mx-20 my-10">
           {/* Steps Section */}
           <div className="flex flex-col md:w-1/2 mb-10 md:mb-0">

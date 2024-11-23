@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <>
-      <div className="bg-gradient-to-t from-blue-50 via-white to-blue-100 mt-40">
+      <div className="bg-gradient-to-t from-white-50 via-white to-blue-100 mt-40">
         <footer className="footer footer-center text-blue-800 p-10">
           {/* Links */}
           <nav className="flex flex-wrap justify-center gap-6 mb-6">
